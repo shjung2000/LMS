@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-G8t6Application<g8t6>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.spm.g8t6.G8t6Application",
+            "projectName": "g8t6",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a02ba87f-f64b-4611-8f1f-7629d0dfba2d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_22.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2EwUFNR12afUIj6ogKgKzeamyXi" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/elin0/OneDrive/문서/GitHub/is212-g8-t6&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;7198a86a394521420c10aa185af043c9&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hannah.kim\Documents\GitHub\is212-g8-t6\backend\g8t6\src\main\java\com\spm\g8t6\Learning_Journey" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.G8T6Application">
+    <configuration name="G8T6Application" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.spm.g8t6.G8t6Application" />
+      <module name="g8t6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spm.g8t6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="G8t6ApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="g8t6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spm.g8t6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spm.g8t6" />
+      <option name="MAIN_CLASS_NAME" value="com.spm.g8t6.G8t6ApplicationTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="G8t6ApplicationTests.GetAllRoleEndpoint_ShouldReturnRoleLists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="g8t6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spm.g8t6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spm.g8t6" />
+      <option name="MAIN_CLASS_NAME" value="com.spm.g8t6.G8t6ApplicationTests" />
+      <option name="METHOD_NAME" value="GetAllRoleEndpoint_ShouldReturnRoleLists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="G8t6ApplicationTests.givenRole_GetRoleEndpoint_ShouldReturnRoleLists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="g8t6" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spm.g8t6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spm.g8t6" />
+      <option name="MAIN_CLASS_NAME" value="com.spm.g8t6.G8t6ApplicationTests" />
+      <option name="METHOD_NAME" value="givenRole_GetRoleEndpoint_ShouldReturnRoleLists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="G8t6Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="g8t6" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.spm.g8t6.G8t6Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.G8t6ApplicationTests" />
+        <item itemvalue="JUnit.G8t6ApplicationTests.GetAllRoleEndpoint_ShouldReturnRoleLists" />
+        <item itemvalue="JUnit.G8t6ApplicationTests.givenRole_GetRoleEndpoint_ShouldReturnRoleLists" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a02ba87f-f64b-4611-8f1f-7629d0dfba2d" name="Changes" comment="" />
+      <created>1663506035482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1663506035482</updated>
+      <workItem from="1664361568245" duration="71000" />
+      <workItem from="1664888066335" duration="1500000" />
+      <workItem from="1664889794193" duration="6240000" />
+      <workItem from="1665025647352" duration="2202000" />
+      <workItem from="1665034366731" duration="3598000" />
+      <workItem from="1665147027973" duration="617000" />
+      <workItem from="1665370534526" duration="1281000" />
+      <workItem from="1665487861058" duration="4304000" />
+      <workItem from="1665025647352" duration="1940000" />
+      <workItem from="1665040145699" duration="3223000" />
+      <workItem from="1665492087544" duration="1343000" />
+      <workItem from="1665567673542" duration="672000" />
+      <workItem from="1666687702419" duration="11580000" />
+      <workItem from="1666879198702" duration="6913000" />
+      <workItem from="1666960733211" duration="5990000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.hibernate.AnnotationException" package="org.hibernate" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/is212_g8_t6$G8t6Application.ic" NAME="G8t6Application Coverage Results" MODIFIED="1663510252158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.spm.g8t6.*</FILTER>
+    </SUITE>
+  </component>
+</project>
